@@ -1,0 +1,25 @@
+{
+  "ssh": {
+    "host": "46.36.217.60",
+    "port": 22,
+    "username": "root",
+    "password": "t3k3WHf2CkBSj39o",
+    "dir": "/var/www/laraman/data/www/soft.laraman.ru"
+  },
+  "ignored": [
+    "vendor",
+    "node_modules",
+    "storage",
+    ".idea",
+    ".git",
+    ".gitignore",
+    ".gitattributes",
+    ".phpstorm.meta.php",
+    "_ide_helper.php"
+  ],
+  "paths": {
+    "change": [
+      "\\public"
+    ]
+  }
+}
